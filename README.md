@@ -1,6 +1,6 @@
 # Isabela Todescatt📜་ ฅ^•ﻌ•^ฅ
 Outra conta, mas a mesma desordem criativa
-__
+-
 
 ### ★ About Me <3
 ⋆ **Estudante da Escola Sesi**  
