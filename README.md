@@ -1,12 +1,12 @@
 # Isabela Todescatt📜་ ฅ^•ﻌ•^ฅ
 Outra conta, mas a mesma desordem criativa
-_
+__
 
 ### ★ About Me <3
 ⋆ **Estudante da Escola Sesi**  
 ⋆ Análise e Desenvolvimento de Sistemas  
 ⋆ Design ᶻ 𝗓 𐰁 .ᐟ  
-_
+__
 
 ### ★ Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelatodescatt2&show_icons=true&theme=moltack)
