@@ -15,4 +15,4 @@
 
 
 ## ★ Habilidades
-[![My Skills](https://skillicons.dev/icons?i=ae,figma,html,css,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,vscode,figma,html,css,js,py)](https://skillicons.dev)
