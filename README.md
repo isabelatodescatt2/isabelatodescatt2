@@ -15,6 +15,7 @@
 
 
 ## ★ Habilidades
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p align="left">
    <img src="./icons/Figma-Dark.svg" width="48">
    <img src="./icons/HTML.svg" width="48">
